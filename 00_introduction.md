@@ -20,7 +20,7 @@ In this course, you'll use Actions to build and deploy a site developed in a Jek
 
 ### :keyboard: Activity: Update your Jekyll configuration
 
-Jekyll Collections are a way to group related content.  You will notice that this repository has a folder named `_cats`.  This folder contains a _Jekyll collection_ of Markdown posts about various kitties.  Ordinarily, documents in a collection are sorted by date, or if no date is specified, alphabtically.  But suppose you want to sort the collection in some other way?     
+Jekyll Collections are a way to group related content.  You will notice that this repository has a folder named `_cats`.  This folder contains a _Jekyll collection_ of Markdown posts about various kitties.  Ordinarily, documents in a collection are sorted by date, or if no date is specified, alphabetically.  But suppose you want to sort the collection in some other way?     
 
 Jekyll versions 4.0 and above now allow you to customize how you want to sort your collection.  The GitHub Pages build process uses Jekyll v3.9, so you will have to build your site using GitHub Actions instead.
 
