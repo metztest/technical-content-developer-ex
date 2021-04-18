@@ -30,18 +30,18 @@ First you will configure your custom collection in Jekyll.
 2. In the upper right corner, click the ![octicon-pencil] icon to edit the `_config.yml` file
 3. Add the following:
 
-```
-collections:
-  cats:
-    output: true
-    order:
-      - nala-cat.md
-      - princess-monster-truck.md
-      - jabba-the-fluff.md
-      - grumpy-cat.md
-```
+    ```
+    collections:
+      cats:
+        output: true
+        order:
+          - nala-cat.md
+          - princess-monster-truck.md
+          - jabba-the-fluff.md
+          - grumpy-cat.md
+    ```
 
-This will manually order our cats by order of cuteness instead of alphabetically.  We could also sort by a key if we wished.
+    This will manually order our cats by order of cuteness instead of alphabetically.  We could also sort by a key if we wished.
 
 4. Scroll to the bottom, type a commit message, and commit directly to the `main` branch.
 
